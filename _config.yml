@@ -1,0 +1,14 @@
+layout_spectrum: 0.27909415890462697
+typography_spectrum: 0.012998377904295921
+color:
+  brandStrength: 0.20047578611411154
+  lightness: 0.4771433419082314
+  saturation: 0.9314302566926926
+  rhythmicContrast: 0.760110802249983
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: atmo
